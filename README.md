@@ -8,7 +8,7 @@ Group: 413
 <br>
 Semester: Feb-Jun 2022
 
-Link: [AppleFighter](bren12.github.io/AppleFighter/)
+Link: [AppleFighter](https://bren12.github.io/AppleFighter/)
 
 ## Files Description
 
