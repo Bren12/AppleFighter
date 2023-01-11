@@ -4,9 +4,7 @@ Class exercise developed for the module of Video Games.
 
 Course: TC2005B (Software Construction and Decision-Making)
 <br>
-Semester: Feb-Jun 2022
-<br>
-Group: 413
+Semester: FJ22
 
 Link: [AppleFighter](https://bren12.github.io/AppleFighter/)
 
