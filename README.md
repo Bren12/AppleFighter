@@ -7,6 +7,11 @@ Class exercise developed for the module of Video Games.
 
 **Link:** [AppleFighterGame](https://bren12.github.io/AppleFighter/)
 
+## Project Description
+
+Minigame developed to model the basic movements of a character, as well as 
+how different elements can affect their life bar.
+
 ## Files Description
 
 ### 📁 Source Code
