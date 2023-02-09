@@ -3,7 +3,8 @@
 Class exercise developed for the module of Video Games.
 
 **Course:** TC2005B (Software Construction and Decision-Making) <br>
-**Semester:** FJ22
+**Developed by:** [Brenda Saucedo](https://github.com/Bren12) <br>
+**Semester:** FJ22 <br>
 
 **Link:** [AppleFighterGame](https://bren12.github.io/AppleFighter/)
 
