@@ -4,6 +4,8 @@ Class exercise developed for the module of Video Games.
 
 **Course:** TC2005B (Software Construction and Decision-Making) <br>
 **Developed by:** [Brenda Saucedo](https://github.com/Bren12) <br>
+**Platform:** Unity <br>
+**Language:** C# <br>
 **Semester:** FJ22 <br>
 
 **Link:** [AppleFighterGame](https://bren12.github.io/AppleFighter/)
