@@ -8,7 +8,10 @@ Class exercise developed for the module of Video Games.
 **Language:** C# <br>
 **Semester:** FJ22 <br>
 
-**Link:** [AppleFighterGame](https://bren12.github.io/AppleFighter/)
+## 🔗 Play Online
+
+Check out the live version here: <br>
+👉 [Apple Fighter Game](https://bren12.github.io/AppleFighter/)
 
 ## Project Description
 
